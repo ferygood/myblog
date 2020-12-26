@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yao-Chung</title>
-    <link>https://ferygood.github.io/myblog/post/</link>
-    <description>Recent content in Posts on Yao-Chung</description>
+    <title>study on Yao-Chung</title>
+    <link>https://ferygood.github.io/myblog/tags/study/</link>
+    <description>Recent content in study on Yao-Chung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ferygood.github.io/myblog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ferygood.github.io/myblog/tags/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Application</title>
       <link>https://ferygood.github.io/myblog/application/</link>
@@ -20,25 +20,6 @@
 如果參與這個計畫，會怎麼安排學習時間？ 因為白天會需要在學校進行我的博士班論文研究，所以預計安排時間是每天的下班後回到家開始學習，以及六日的時間，而且因為有時差的關係，會需要特別注意進度報告和作業繳交的時間。
 如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？ 第一個是我可能無法參與每週一早上 10 點的線上會議，除非在半夜三點爬起來，因此如果進度和作業的重點提示我抓不到也沒跟到線上會議可能會漏掉關鍵之處，我覺得這會是我參與這個計畫會遇到的問題，而且因為台灣時間比較快，我有可能會需要更早的開始，需要在每個checkpoint 早約 6-7 個小時完成，解決方法目前想到除了可以在 Slack 發問外，也可以找彭彭之前的課程有沒有提到以及上網找方法了。
 想要對我們說的事情？ 因為以前就一直在找合理收費的中文的就業取向程式課程，資策會我覺得價錢過高，Appworks School 又因為我上班沒有辦法參加駐點集訓，只能自己上網找合適的資源，所以看到彭彭老師計劃開設這個課程是非常的開心，覺得可以透過半年的時間至少提升自己的後端實力到就業水平，一定對於我之後朝向更全面的資料科學家有幫助。雖然會覺得有點可惜彭彭不是先開資料工程的扶持計畫，如果之後有類似的課程也會非常有興趣。</description>
-    </item>
-    
-    <item>
-      <title>Hypothesis Testing</title>
-      <link>https://ferygood.github.io/myblog/test/</link>
-      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ferygood.github.io/myblog/test/</guid>
-      <description>This is a test demo</description>
-    </item>
-    
-    <item>
-      <title>Cayman Typography</title>
-      <link>https://ferygood.github.io/myblog/cayman-typography/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ferygood.github.io/myblog/cayman-typography/</guid>
-      <description>Text Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).Text can be bold, italic, or strikethrough. Links should be blue with no underlines (unless hovered over).
-Paragraph There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.There should be whitespace between paragraphs. There should be whitespace between paragraphs.</description>
     </item>
     
   </channel>
